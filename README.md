@@ -20,7 +20,7 @@ Power BI has been used to transform the data into convenient and error-free form
 - Among 10,48,574 European restaurants, 461493 have been claimed by the property. These restaurants have 4.04 average rating. 
 - Top 5 countries based on having the most restaurants are respectively Italy, Spain, France, England and Germany while the lowest number of TripAdvisor restaurant data has been retrieved from respectively Hungary, Northern Ireland, Slovakia, Croatia and Wales.
 - Based on different speciality meal cumulatively on all the European restaurants:
-- 
+|                              |
 |------------------------------|
 | Vegan: 12.73%                |
 | Vegetarian: 30.28%           |
