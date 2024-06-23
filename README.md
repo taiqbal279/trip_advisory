@@ -36,6 +36,13 @@ Power BI has been used to transform the data into convenient and error-free form
 | Starting Price Range: 10€                                                      |
 | Average 5 star rated restaurants: 10.42% with cumulative 4.04 rating for all   |
 
+
+|------------------------------|
+| Vegan: 12.73%                |
+| Vegetarian: 30.28%           |
+| Gluten-free: 3.58%           |
+
+
 **Dataset**
 
 - Retrieved from TripAdvisor and selected from Kaggle dataset: https://www.kaggle.com/datasets/stefanoleone992/tripadvisor-european-restaurants/data
