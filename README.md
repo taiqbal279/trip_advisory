@@ -1,9 +1,8 @@
 
-|       lol      |
-|----------------|
-|      lmao      |
-|      lmfao     |
-|                |
+|--------------------------|
+| Vegan: 12.73% |
+|Vegetarian: 30.28%|
+| Gluten-free: 3.58%                |
 
 **Project Overview:**
 
