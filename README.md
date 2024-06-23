@@ -26,7 +26,12 @@ Power BI has been used to transform the data into convenient and error-free form
 | Vegetarian: 30.28%           |
 | Gluten-free: 3.58%           |
 
-- Due to missing, error and unrealistic value of the price range variation, starting price has been used to demonstrate the aggregate meal price view. It has been clearly figured out that Poland offers the cheapest meals, with starting range of 2€ and one of the most expensive meal prices are respectively in Belgium, France and Italy. 
+- Due to missing, error and unrealistic value of the price range variation, starting price has been used to demonstrate the aggregate meal price view. It has been clearly figured out that Poland offers the cheapest meals, with starting range of 2€ and one of the most expensive meal prices are respectively in Belgium, France and Italy.
+|   |
+|---|
+|   |
+|   |
+|   |
 - Also individual country based analytics can be created using the card presented in the visualization. One of the significant contributor country in the restaurant data has been presented as an example:
 |--------------------------------------------------------------------------------|
 | Total TripAdvisor Restaurant number in Italy: 2,24,763                         |
@@ -35,13 +40,6 @@ Power BI has been used to transform the data into convenient and error-free form
 | Gluten-free Option available Restaurants in Italy: 13.85%                      |
 | Starting Price Range: 10€                                                      |
 | Average 5 star rated restaurants: 10.42% with cumulative 4.04 rating for all   |
-
-
-|------------------------------|
-| Vegan: 12.73%                |
-| Vegetarian: 30.28%           |
-| Gluten-free: 3.58%           |
-
 
 **Dataset**
 
