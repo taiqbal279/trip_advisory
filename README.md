@@ -1,3 +1,10 @@
+
+|   |
+|---|
+|   |
+|   |
+|   |
+
 **Project Overview:**
 
 Power BI has been used to transform the data into convenient and error-free format to create a simplified analysis on the available dataset. 
