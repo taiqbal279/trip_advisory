@@ -21,6 +21,10 @@ Power BI has been used to transform the data into convenient and error-free form
 - Top 5 countries based on having the most restaurants are respectively Italy, Spain, France, England and Germany while the lowest number of TripAdvisor restaurant data has been retrieved from respectively Hungary, Northern Ireland, Slovakia, Croatia and Wales.
 - Based on different speciality meal cumulatively on all the European restaurants:
 
+**Lol**
+
+
+
 | ---------------------------- |
 | Vegan: 12.73%                |
 | Vegetarian: 30.28%           |
