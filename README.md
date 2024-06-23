@@ -1,8 +1,8 @@
 
-|--------------------------|
-| Vegan: 12.73% |
+|------------------|   |
+|Vegan: 12.73%     |
 |Vegetarian: 30.28%|
-| Gluten-free: 3.58%                |
+|Gluten-free: 3.58%|                |
 
 **Project Overview:**
 
