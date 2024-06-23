@@ -20,15 +20,16 @@ Power BI has been used to transform the data into convenient and error-free form
 - Among 10,48,574 European restaurants, 461493 have been claimed by the property. These restaurants have 4.04 average rating. 
 - Top 5 countries based on having the most restaurants are respectively Italy, Spain, France, England and Germany while the lowest number of TripAdvisor restaurant data has been retrieved from respectively Hungary, Northern Ireland, Slovakia, Croatia and Wales.
 - Based on different speciality meal cumulatively on all the European restaurants:
-|                              |
-|:--|
+
+| ---------------------------- |
 | Vegan: 12.73%                |
 | Vegetarian: 30.28%           |
 | Gluten-free: 3.58%           |
 
 - Due to missing, error and unrealistic value of the price range variation, starting price has been used to demonstrate the aggregate meal price view. It has been clearly figured out that Poland offers the cheapest meals, with starting range of 2€ and one of the most expensive meal prices are respectively in Belgium, France and Italy.
 - Also individual country based analytics can be created using the card presented in the visualization. One of the significant contributor country in the restaurant data has been presented as an example:
-|--------------------------------------------------------------------------------|
+
+| ------------------------------------------------------------------------------ |
 | Total TripAdvisor Restaurant number in Italy: 2,24,763                         |
 | Vegan friendly Restaurants in Italy: 12.3%                                     |
 | Vegetarian friendly Restaurants in Italy: 33.5%                                |
